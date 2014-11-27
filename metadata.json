@@ -1,0 +1,14 @@
+{
+  "name": "wolfspyre-network_facts",
+  "version": "1.0.0",
+  "author": "wolfspyre",
+  "summary": "custom fact which provides awareness of your public ip address",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wolfspyre/network_facts",
+  "project_page": "https://github.com/wolfspyre/network_facts",
+  "issues_url": "https://github.com/wolfspyre/network_facts/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
